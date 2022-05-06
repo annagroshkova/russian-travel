@@ -1,0 +1,4 @@
+.header__lang-links {
+    display: inline-flex;
+    gap: 18px;
+}
