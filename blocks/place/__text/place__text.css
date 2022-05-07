@@ -1,0 +1,7 @@
+.place__text {
+    grid-area: text;
+    padding-top: 32px;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 25px;
+}
