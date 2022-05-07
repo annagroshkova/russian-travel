@@ -1,0 +1,10 @@
+.intro__list-item {
+    list-style: none;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+    line-height: 18px;
+    text-align: start;
+    margin: 0;
+    padding: 0;
+}
