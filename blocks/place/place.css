@@ -8,3 +8,7 @@
   "image"
   "text";
 }
+
+.place:last-of-type {
+    padding-bottom: 66px;
+}
