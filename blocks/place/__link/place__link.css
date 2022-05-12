@@ -7,4 +7,9 @@
     text-align: start;
     text-decoration: none;
     border-bottom: 1px solid white;
+    transition: opacity 0.3s ease-out;
+}
+
+.place__link:hover {
+   opacity: .8;
 }
