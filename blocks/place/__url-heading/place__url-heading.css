@@ -6,4 +6,11 @@
     letter-spacing: 2px;
     margin: 0;
     padding-bottom: 12px;
+    text-align: start;
+}
+
+@media screen and (min-width: 1024px) {
+    .place__url-heading {
+        line-height: 20px;
+    }
 }

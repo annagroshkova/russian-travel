@@ -5,3 +5,15 @@
     flex-direction: column;
     gap: 25px;
 }
+
+@media screen and (min-width: 768px) {
+    .place__text {
+        padding: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .place__text {
+        gap: 26px;
+    }
+}

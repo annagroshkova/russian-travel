@@ -8,3 +8,22 @@
     text-align: start;
     padding-bottom: 32px;
 }
+
+@media screen and (min-width: 768px) {
+    .place__title {
+        padding: 0;
+        display: flex;
+        align-items: flex-end;
+        font-size: 42px;
+        line-height: 46px;
+        max-width: 330px;
+    }
+}
+
+
+@media screen and (min-width: 1024px) {
+    .place__title {
+        font-size: 72px;
+        line-height: 76px;
+    }
+}

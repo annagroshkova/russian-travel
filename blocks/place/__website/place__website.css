@@ -2,3 +2,13 @@
     grid-area: website;
     padding-bottom: 32px;
 }
+
+@media screen and (min-width: 768px) {
+    .place__website {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-end;
+    }
+}
