@@ -7,3 +7,11 @@
     margin: 0;
     padding: 0 0 48px;
 }
+
+@media screen and (min-width: 768px) {
+    .footer__links {
+       flex-direction: row;
+        gap: 18px;
+        padding: 0;
+    }
+}
