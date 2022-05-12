@@ -1,4 +1,16 @@
-.intro-list {
+.intro__list {
     padding: 34px 0 64px 0;
     margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+    .intro__list {
+        padding: 34px 0 88px 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro__list {
+        padding: 34px 0 92px 0;
+    }
 }

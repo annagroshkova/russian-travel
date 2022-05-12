@@ -8,3 +8,19 @@
     text-align: start;
     max-width: 246px;
 }
+
+@media screen and (min-width: 768px) {
+    .intro__title {
+        padding-top: 88px;
+        font-size: 54px;
+        line-height: 58px;
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro__title {
+        padding-top: 92px;
+    }
+}
