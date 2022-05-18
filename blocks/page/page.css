@@ -14,3 +14,10 @@
         margin: 28px 48px 24px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .page {
+        max-width: 1184px;
+        margin: 28px auto 24px auto;
+    }
+}
