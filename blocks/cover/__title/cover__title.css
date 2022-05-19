@@ -8,6 +8,7 @@
     max-width: 255px;
     margin: 0;
     padding-bottom: 16px;
+    z-index: 1;
 
 }
 
